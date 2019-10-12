@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="750" height="450" id="Flag of Georgia">
+	<rect id="bg" width="750" height="450" fill="#cb0101" />
+	<rect id="left" width="250" height="450" fill="#1c1479" />
+	<rect id="centre" width="500" height="150" x="250" y="150" fill="#ffffff" />
+</svg>

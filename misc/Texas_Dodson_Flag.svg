@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300">
+<rect width="900" height="300" style="fill:#fff"/>
+<rect width="300" height="300" style="fill:#002868"/>
+<rect width="300" height="300" x="600" y="0" style="fill:#bf0a30"/>
+<path d="M 220.15138,247 149.81235,195.4153 79.239657,246.67985 106.56387,163.84319 36,112.56647 123.22631,112.9553 150.18816,30 176.77281,113.07696 264,113.08449 193.20386,164.04004 220.15138,247 z" style="fill:#fff"/>
+</svg>
