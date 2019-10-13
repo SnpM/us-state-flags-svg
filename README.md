@@ -1,4 +1,4 @@
-# United States State Flags
+# United States Flags
 This repo is a public resource for artists.
 
 `/flags` contains .svg files for each of the 50 states, 5 permanent territories, and the District of Columbia.
